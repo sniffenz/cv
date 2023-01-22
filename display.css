@@ -1,0 +1,37 @@
+body{
+  background-color: palegreen;
+}
+hr{
+  border-color: blue;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+img{
+  height: 200px
+}
+.Mall{
+  height: 320px;
+}
+.Park{
+  height: 300px;
+}
+img:hover {
+  height: 350px;
+} 
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+
+#EDU{
+  color: orange;
+}
+
+#FAV{
+  color: purple;
+}
